@@ -1,0 +1,6 @@
+/Users/noaht.j.liwanpo/RiderProjects/elevator trap/elevator trap/bin/Debug/elevator_trap.exe
+/Users/noaht.j.liwanpo/RiderProjects/elevator trap/elevator trap/bin/Debug/elevator_trap.pdb
+/Users/noaht.j.liwanpo/RiderProjects/elevator trap/elevator trap/obj/Debug/elevator trap.csprojAssemblyReference.cache
+/Users/noaht.j.liwanpo/RiderProjects/elevator trap/elevator trap/obj/Debug/elevator trap.csproj.CoreCompileInputs.cache
+/Users/noaht.j.liwanpo/RiderProjects/elevator trap/elevator trap/obj/Debug/elevator_trap.exe
+/Users/noaht.j.liwanpo/RiderProjects/elevator trap/elevator trap/obj/Debug/elevator_trap.pdb
